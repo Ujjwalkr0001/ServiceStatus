@@ -2,7 +2,7 @@
 name = "service-status-indicator-api"
 version = "0.1.0"
 description = "The Service Status Indicator API is a part of the Server Status Indicator. It provides the essential data for the Server Status Indicator, which is a tool for monitoring the status of various services and system updates on a Linux server. The API comes with some predefined check scripts for common use cases like system updates and services status checking. It can also easily expand its functionality, allowing you to create and add your own custom service checker along with a custom script."
-authors = ["Remi Zlatinis <remizlatinis@gmail.com>"]
+authors = ["Ujjwal Kumar"]
 license = "GPLv2"
 readme = "README.md"
 packages = [{include = "service_status_indicator_api"}]

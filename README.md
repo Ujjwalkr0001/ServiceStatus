@@ -1,5 +1,5 @@
 # Deprecated
-Check this repository instead: [Service Status Indicator](https://github.com/RemiZlatinis/service_status_indicator)
+Check this repository instead: [Service Status Indicator](https://github.com/Ujjwalkr0001/ServiceStatus)
 
 Or the site: [Site](https://service-status-indicator.remiservices.uk/) 
 
@@ -24,8 +24,8 @@ pip install flask gunicorn
 Once you have installed the required dependencies, you can clone this repository and run the install.sh script as sudo:
 
 ```shell
-git clone https://github.com/RemiZlatinis/service_status_indicator_api.git
-cd service_status_indicator_api
+git clone https://github.com/Ujjwalkr0001/ServiceStatus.git
+cd ServiceStatus
 sudo ./install.sh
 ```
 
@@ -61,7 +61,7 @@ If you would like to contribute to the Service Status Indicator API, please read
 
 ## Credits
 
-The Service Status Indicator API was created by Apostolos Zlatinis and is licensed under the GPLv2 license.
+The Service Status Indicator API was created by Ujjwal Kumar and is licensed under the GPLv2 license.
 
 ## License
 
